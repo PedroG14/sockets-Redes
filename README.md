@@ -1,6 +1,8 @@
 # Sockets Cliente-Servidor
 Trabalho Prático - Programação de Sockets (Redes de Computadores - Universidade Federal do Ceará (Campus Russas))
 
+Grupo: Pedro Gabriel de Morais Ribeiro - 471550, Raimundo Israel Silva Gonçalves - 474156
+
 O trabalho consiste em duas aplicações, uma "Cliente" (client.py) e uma "Servidor" (server.py), que realizam a troca de informações por meio de sockets.
 
 Inicialmente, o programa servidor espera pela conexão de um programa cliente, o qual ao realizar a conexão, gera um valor inteiro aleatório de tamanho de até 30 casas, e envia ao servidor, onde é verificado se o valor tem ou não mais de 10 casas. 
